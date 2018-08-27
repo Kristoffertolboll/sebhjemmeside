@@ -1,3 +1,6 @@
+Hjemmeside til Sebastian, med tema fra Folio.
+
+
 Thanks for downloading this theme!
 
 Theme Name: Folio
