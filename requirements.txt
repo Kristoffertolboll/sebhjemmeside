@@ -1,4 +1,4 @@
-adium-theme-ubuntu==0.3.4
+
 beautifulsoup4==4.4.1
 blinker==1.4
 certifi==2018.1.18
