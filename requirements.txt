@@ -31,7 +31,7 @@ MarkupSafe==1.0
 mysql-connector-python==2.0.4
 mysql-utilities==1.6.1
 numpy==1.14.2
-paramiko==1.16.0
+paramiko==2.10.1
 passlib==1.7.1
 pexpect==4.0.1
 pipenv==2018.5.18
